@@ -30,7 +30,7 @@
 
 **Эконометрика:** кросс-секционный анализ (OLS, causal inference, GRS-тест); временные ряды (ARIMA, GARCH, VAR, SVAR, VECM); панельные данные (FE/RE/TWFE, IV-2SLS, Dynamic GMM, тесты Hausman/Sargan/AR)
 
-**R:** RStudio, plm, fixest, httr2, ellmer
+**R:** RStudio, plm, fixest
 
 ---
 
