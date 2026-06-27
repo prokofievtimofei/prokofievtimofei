@@ -38,8 +38,8 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Fama-French Five-Factor Model (MOEX)](https://github.com/prokofievtimofei/course-work-EMPIRICAL-TESTING-OF-THE-FAMA-FRENCH-MODEL-USING-RUSSIAN-STOCK-MARKET-DATA) | Эмпирическое тестирование FF5 на данных российского фондового рынка. GRS F=0.719, p=0.809 | Python · R · MOEX ISS API |
-| [A/B-тест банковского приложения](https://github.com/prokofievtimofei/banking-app-ab-test) | Оценка нового интерфейса (~5 000 пользователей): +32% сессий, +93% длительность, прогноз посещаемости OLS | Python · statsmodels · pandas |
+| [Fama-French Five-Factor Model (MOEX)](https://github.com/prokofievtimofei/course-work-EMPIRICAL-TESTING-OF-THE-FAMA-FRENCH-MODEL-USING-RUSSIAN-STOCK-MARKET-DATA) | Проверил применимость пятифакторной модели Fama-French на 116 месяцах данных MOEX (22 портфеля, июль 2016 — февраль 2026). Модель не отвергается GRS-тестом: F = 0.719, p = 0.809. | Python R MOEX ISS API |
+| [A/B-тест банковского приложения](https://github.com/prokofievtimofei/banking-app-ab-test) | Оценил влияние нового интерфейса банковского приложения на 5 000 пользователей. Новый UI увеличивает вовлечённость (+32% сессий, +93% длительность сессии), но не конверсию (p = 0.054). Дополнительно — прогноз посещаемости (OLS, MAPE = 8.98%). | Python pandas statsmodels scikit-learn
 
 ---
 
