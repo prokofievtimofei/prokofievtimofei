@@ -6,6 +6,13 @@
 
 ---
 
+## 📬 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-@magnus__54-2CA5E0?logo=telegram)](https://t.me/magnus_54)
+[![Email](https://img.shields.io/badge/Email-tiprokofev@edu.hse.ru-D14836?logo=gmail)](mailto:tiprokofev@edu.hse.ru)
+
+---
+
 ## 🛠 Стек
 
 **SQL:** PostgreSQL, pgAdmin
